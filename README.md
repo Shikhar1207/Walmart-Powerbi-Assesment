@@ -25,16 +25,16 @@ Ranks occupations based on total purchase value to determine high-value customer
 ### 4. Purchase Amount by City Category
 Analyzes total purchases from metro, town, and semi-urban city categories.
 
-### 6. Stay Duration vs. Purchase Behavior
+### 5. Stay Duration vs. Purchase Behavior
 Examines whether the number of years a customer has lived in a city affects their spending.
 
-### 7. Product Category Popularity
+### 6. Product Category Popularity
 Shows the most frequently purchased product categories.
 
-### 8. Top 10 Highest Spending Customers
+### 7. Top 10 Highest Spending Customers
 Highlights individual customers who have spent the most overall.
 
-### 10. Overall Purchase Distribution
+### 8. Overall Purchase Distribution
 Displays a histogram showing how purchase amounts are distributed across all transactions.
 
 ## 🛠 Tools Used
