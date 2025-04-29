@@ -48,4 +48,3 @@ Displays a histogram showing how purchase amounts are distributed across all tra
 3. Load the `walmart.csv` file from the `data` folder
 4. Explore the dashboard and visuals
 
-## 📁 Folder Structure
